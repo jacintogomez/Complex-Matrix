@@ -1,4 +1,4 @@
-# Complex-Matrix-Operations
+# Complex Matrix Operations
 
 Main function is in `testcomp.java` (*to run the whole project, run this file*)
 
